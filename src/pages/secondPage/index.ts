@@ -1,0 +1,1 @@
+export {SecondComponent as SecondPage} from './SecondPage'
